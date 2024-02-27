@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+body{
+    background-image: url(imagenes/fondo3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 1000px;
+    color: hsl(0, 0%, 1%);
+    font-family:"Libre Baskerville", serif;
+
+}
+h2{
+    font-size: 90px;
+    color: hwb(288 9% 25%);
+}
+h3{
+    font-size: 60px;
+    color: #2d18e2;
+}
+p{ 
+    font-size: 30px;
+    color: rgb(12, 11, 11);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h4{
+    font-size: 50px;
+    color: hsl(0, 27%, 90%);
+ }
+
+ img{
+    width: 700px;
+ }
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px 0 20px 0;
+    background-color: rgb(145, 187, 90);
+}
+.contenedor2{ 
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+.contenedor3 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 40px 0 60px 0;
+}
+.contenedor4 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 40px 0 60px 0;
+}
+.contenedor5 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 40px 0 60px 0;
+}
+.contenedor6 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 40px 0 60px 0;
+}
+.contenedor7 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 40px 0 60px 0;
+}
